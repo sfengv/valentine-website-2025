@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Do you like me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No (click here for funsies 🤭)",                                               // Text for "No" button
-            secretAnswer: "I love you! ❤️"           // Secret hover message
+            secretAnswer: "Ok fine, I'll be your Valentine! ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://jumpshare.com/s/Tw1XbVqpbDwKdXOBThF9", // Music streaming URL
+        musicUrl: "https://drive.google.com/file/d/1v7oYiAbrcljC48FzZcMT-hy3xDSz2ZZC/view?usp=sharing", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
